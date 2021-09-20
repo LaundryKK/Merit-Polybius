@@ -2,7 +2,6 @@ var angle = 400;
 var scalar = 150;
 var startX = 200;
 var startY = 200;
-var Decider = false;
 
 function setup(){
     angleMode(degrees);
